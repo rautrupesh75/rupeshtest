@@ -1,2 +1,3 @@
 this is new file created named file 3 by developer - 12a3 
 this is new file created named file 3 by developer - main
+This is new line by new developer - 3
